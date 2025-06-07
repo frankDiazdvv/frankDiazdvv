@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankDiazdvv
 - 👀 I’m interested in Web Development and Full-Stack Applications
-- 🌱 I’m currently learning React as my first Client Side framework
+- 🌱 I’m currently learning Next.js for full stack development.
 - 💞️ I’m looking to collaborate on any project you might have
 - 📫 You can reach me on my Linkedin at https://www.linkedin.com/in/frankdiazprogramming/
 
